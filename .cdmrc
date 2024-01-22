@@ -1,2 +1,2 @@
-tabs: ['index.js']
-terminals: ['node index.js'']
+tabs: ['index.html', 'README.md']
+terminals: ['echo one']
